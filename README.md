@@ -123,12 +123,9 @@ endmodule
 
 ```
 ## OUTPUT:
-
-## 4-Bit Multiplier:
 ![image](https://github.com/reshmasundar18/VLSI-LAB-EXP-3/assets/166894571/6fccad2e-a026-4329-b036-1f23b51c5859)
 
-
-## Result:
+## RESULT:
           Thus,The 2-bit multiplier and 4-bit multiplier implemented and stimulated successfully.
 
 
